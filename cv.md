@@ -2,20 +2,16 @@
 
 ## Karina Samarina
 
-### Junior Frontend Developer
+Junior Frontend Developer
 
 ---
 
 ### Contact Information:
 
 **Phone:** +4917669375599
-
 **e-mail:** samarinakarin@gmail.com
-
 **Discord rs_school:** tali_sam
-
 [Behance](https://www.behance.net/karinasamarina)
-
 [LinkedIn](https://www.linkedin.com/in/karina-samarina-519b8897/)
 
 ---
@@ -68,6 +64,7 @@
 Create a function that takes a string and returns the string ciphered with Rot13. If there are numbers or special characters included in the string, they should be returned as they are. Only letters from the latin/english alphabet should be shifted, like in the original Rot13 "implementation".
 
 *Solution:* 
+
 ´function rot13 (message) {
     let newStr = '';
     for (let i = 0; i < message.length; i++) {
