@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## **Karina Samarina**
 ![Photo](file:///C:/Users/Karin/Pictures/50964909_2048998301862397_48000910982381568_n.jpg)
 ### Junior Frontend Developer
@@ -61,3 +62,6 @@ Create a function that takes a string and returns the string ciphered with Rot13
 
 ### Finished projects
 - [CV](https://github.com/KarinaSamr/rsschool-cv/blob/gh-pages/cv.md) 
+=======
+
+>>>>>>> 93c0cfd08352f8805a73b13188352e5eec8b1552
