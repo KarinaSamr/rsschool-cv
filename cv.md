@@ -1,7 +1,6 @@
 ![50964909_2048998301862397_48000910982381568_n](https://github.com/KarinaSamr/rsschool-cv/assets/137826507/c9aa7fc4-2e24-449b-8949-71e1c0000cef)
 
-## Karina Samarina
-
+## Karina Samarina  
 Junior Frontend Developer
 
 ---
@@ -9,7 +8,7 @@ Junior Frontend Developer
 ### Contact Information:
 
 **Phone:** +4917669375599  
-**e-mail:** samarinakarin@gmail.com  
+**E-mail:** samarinakarin@gmail.com  
 **Discord rs_school:** tali_sam  
 [Behance](https://www.behance.net/karinasamarina)  
 [LinkedIn](https://www.linkedin.com/in/karina-samarina-519b8897/)  
