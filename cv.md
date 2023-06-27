@@ -1,5 +1,6 @@
-##**Karina Samarina**
-!![50964909_2048998301862397_48000910982381568_n](https://github.com/KarinaSamr/rsschool-cv/assets/137826507/c9aa7fc4-2e24-449b-8949-71e1c0000cef)
+![50964909_2048998301862397_48000910982381568_n](https://github.com/KarinaSamr/rsschool-cv/assets/137826507/c9aa7fc4-2e24-449b-8949-71e1c0000cef)
+
+## Karina Samarina
 
 ### Junior Frontend Developer
 
@@ -8,9 +9,13 @@
 ### Contact Information:
 
 **Phone:** +4917669375599
+
 **e-mail:** samarinakarin@gmail.com
+
 **Discord rs_school:** tali_sam
+
 [Behance](https://www.behance.net/karinasamarina)
+
 [LinkedIn](https://www.linkedin.com/in/karina-samarina-519b8897/)
 
 ---
@@ -62,7 +67,8 @@
 *Task on codewars.com:* ROT13 is a simple letter substitution cipher that replaces a letter with the letter 13 letters after it in the alphabet. ROT13 is an example of the Caesar cipher. 
 Create a function that takes a string and returns the string ciphered with Rot13. If there are numbers or special characters included in the string, they should be returned as they are. Only letters from the latin/english alphabet should be shifted, like in the original Rot13 "implementation".
 
-*Solution:* ´function rot13 (message) {
+*Solution:* 
+´function rot13 (message) {
     let newStr = '';
     for (let i = 0; i < message.length; i++) {
 
